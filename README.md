@@ -44,6 +44,8 @@ wurde von **unbekanntem österreichischem** Dichter vefasst
 
 ~ 2400 Strophen
 
+*Do steht a wos mid "Mittelhochdeutsch", "neuhochdeutsch" und "Hochdeutsch"*
+
 3.2 höfische Epos
 
 > Parzival
