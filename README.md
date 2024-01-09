@@ -1,5 +1,5 @@
 # Literaturgschichtn
-1. Tips
+## 1. Tips
 
 > Naturalismus kommt nix,
 Nigerlungenlied wichtig,
@@ -11,7 +11,7 @@ Realismus alle Authoren
 
 ---
 
-2. Griechische Epen
+## 2. Griechische Epen
 
 > ~800 Jahre vor Christus
 
@@ -26,7 +26,7 @@ Beide Werke waren **Epen** ("Griechische Epen") und wurden ursprünglich **münd
 
 ---
 
-3. Die ritterliche Dichtung
+## 3. Die ritterliche Dichtung
 
 Miteralterliche Dichtung hatte seinen **Höhepunkt um 1200** und handelte & entstand vom **Rittertum**
 
@@ -36,7 +36,7 @@ Dichtungsarten:
 - höfische Epos
 - Minnesang
 
-3.1 Heldenepos
+### 3.1 Heldenepos
     
 > Nibelungenlied
 
@@ -46,7 +46,7 @@ wurde von **unbekanntem österreichischem** Dichter vefasst
 
 *Do steht a wos mid "Mittelhochdeutsch", "neuhochdeutsch" und "Hochdeutsch"*
 
-3.2 höfische Epos
+### 3.2 höfische Epos
 
 > Parzival
 
