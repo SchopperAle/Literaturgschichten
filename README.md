@@ -19,11 +19,8 @@ Realismus alle Authoren
     - [Inhalt](#inhalt)
   - [2. Griechische Epen](#2-griechische-epen)
   - [3. Die ritterliche Dichtung](#3-die-ritterliche-dichtung)
-  - [3. Die ritterliche Dichtung](#3-die-ritterliche-dichtung-1)
     - [3.1 Heldenepos](#31-heldenepos)
-    - [3.1 Heldenepos](#31-heldenepos-1)
     - [3.2 höfische Epos](#32-höfische-epos)
-    - [3.2 höfische Epos](#32-höfische-epos-1)
     - [3.3 Minnesang](#33-minnesang)
   - [4. Die bürgerliche Literatur](#4-die-bürgerliche-literatur)
     - [4.1 Volksbücher](#41-volksbücher)
@@ -49,7 +46,6 @@ Beide Werke waren **Epen** ("Griechische Epen") und wurden ursprünglich **münd
 ---
 
 ## 3. Die ritterliche Dichtung
-## 3. Die ritterliche Dichtung
 
 Miteralterliche Dichtung hatte seinen **Höhepunkt um 1200** und handelte & entstand vom **Rittertum**
 
@@ -60,7 +56,6 @@ Dichtungsarten:
 - Minnesang
 
 ### 3.1 Heldenepos
-### 3.1 Heldenepos
     
 > Nibelungenlied
 
@@ -70,7 +65,6 @@ wurde von **unbekanntem österreichischem** Dichter vefasst
 
 *Do steht a wos mid "Mittelhochdeutsch", "neuhochdeutsch" und "Hochdeutsch"*
 
-### 3.2 höfische Epos
 ### 3.2 höfische Epos
 
 > Parzival
