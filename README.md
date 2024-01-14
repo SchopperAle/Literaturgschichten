@@ -178,8 +178,7 @@ Wichtige Werke:
 - Der fahrende Schüler aus dem Paradies
 - Das Narrenschneiden
 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Hieronymus_Bosch-Removing_the_Rocks_from_the_Head-Detail.jpg" >
+![Narrenschneiden](img/narrenschneiden.jpg)
 
 # 5. Renaissance, Humanismus (, Reformation)
 > Von 1450 bis 1600
@@ -343,7 +342,7 @@ Wichtige Werke:
 ## 10.4. Albert Stifter
 > Lebte in **Linz**
 
-<img src="https://www.diogenes.ch/dam/Diogenes/Autorenportraits/stifter_adalbert_700056472_beschnitten.jpg">
+![Stifter](img/stifter.jpg)
 
 Wichtige Werke:
 - Bergkristall
@@ -364,7 +363,7 @@ Wichtiges Werk:
 
 ## 11.2. Theodor Storm
 > Er kommt vom **nördlichsten Teil** des deutschen Sprachraums
-> 
+
 **Novellen in der Nordsee**
 
 Wichtiges Werk:
@@ -477,7 +476,7 @@ Wichtige Authoren:
 Wichtigs Werk:
 - **Oberösterreich**
 
-Erfolgreicher Vertreter des neuen Volksstückes ([Von dem Burschen](#ödön-von-horváth))
+Erfolgreicher Vertreter des neuen Volksstückes ([Vom Horváth](#ödön-von-horváth))
 
 ## 15.2. Die Deutsche Demokratische Republik (DDR)
 Flucht aus der DDR in die BRD:
