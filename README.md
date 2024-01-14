@@ -93,6 +93,7 @@ Werke:
 ![Homer, Ilias, Odyssee](img/grieche_01.jpg)
 
 Beide Werke waren **Epen** ("Griechische Epen") und wurden ursprünglich **mündlich** überliefert.
+> Epen: Heldenroman in Versen
 
 # 3. Die ritterliche Dichtung
 > Miteralterliche Dichtung hatte seinen **Höhepunkt um 1200** und handelte & entstand vom **Rittertum**
@@ -109,7 +110,11 @@ Dichtungsarten:
 
 wurde von **unbekanntem österreichischem** Dichter vefasst
 
-~ 2400 Strophen
+~ 2400 Strophen über den Untergang der Burgunden. 
+- 1. Teil: Siegfried der Superdeutsche erkämpft den Schatz der Nibelungen und wird fast vollständig unverwundbar durch das Baden in Drachenblut. Nur eine Stelle auf der hinteren Schulter ist er verwundbar. 
+- 2. Teil: Ermordung durch Verwantschaft und darauffolgender Untergang der ganzen Familie
+
+<img src="./img/sigfried.jpg" alt="Siegfried" width="200" >
 
 *Do steht a wos mid "**Mittelhochdeutsch**", "neuhochdeutsch" und "Hochdeutsch"*
 
@@ -173,6 +178,9 @@ Wichtige Werke:
 - Der fahrende Schüler aus dem Paradies
 - Das Narrenschneiden
 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Hieronymus_Bosch-Removing_the_Rocks_from_the_Head-Detail.jpg" >
+
 # 5. Renaissance, Humanismus (, Reformation)
 > Von 1450 bis 1600
 
@@ -189,6 +197,7 @@ Hauptsächlich Stil von Baukunst, Bildhauerei und Malerei der **Italiener**🍕�
 # 6. Die Barockliteratur
 > - Prunkvolle Kirchen, Paläste und Schlösser
 > - Lange Kriege und böse Seuchen (Pest)
+> - Zeit von Könige und Monarchen
 
 Oft findet man die **Mahnung, an den Tod** zu denken.
 
@@ -258,6 +267,9 @@ Wichtige Werke (Dramen):
 - Iphigenie auf Tauris
 - Torquato Tasso
 
+Balladen Goethes:
+- Der Zauberlehrling
+
 ## 8.2. Schiller
 
 Wichtige Werke: 
@@ -269,16 +281,16 @@ Wichtige Werke:
 Balladen Schillers:
 - Der Taucher
 - Der Handschuh
-- Der Zauberlehrling
 - Die Braut von Korinth
 
 # 9. Die Romantik
-> Vorbild: deutsches Mittelalter
+> Vorbild: deutsches Mittelalter (Prinzessinen Schlösser etc.)
 
 Authoren:
 - Josef von Eichendorff
 - Ernst Theodor Amadeus Hoffmann
 - Brüder Jacob und Wilhelm Grimm
+^^
 
 ## 9.1. Josef von Eichendorff
 Wichtige Werke:
@@ -330,6 +342,8 @@ Wichtige Werke:
 
 ## 10.4. Albert Stifter
 > Lebte in **Linz**
+
+<img src="https://www.diogenes.ch/dam/Diogenes/Autorenportraits/stifter_adalbert_700056472_beschnitten.jpg">
 
 Wichtige Werke:
 - Bergkristall
