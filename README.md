@@ -188,7 +188,6 @@ Hauptsächlich Stil von Baukunst, Bildhauerei und Malerei der **Italiener**🍕�
 
 # 6. Die Barockliteratur
 > - Prunkvolle Kirchen, Paläste und Schlösser
-> ![Fesche Paläste](img/barock_01.jpg)
 > - Lange Kriege und böse Seuchen (Pest)
 
 Oft findet man die **Mahnung, an den Tod** zu denken.
@@ -206,7 +205,7 @@ Wichtige Werke:
 
 Barockliteratur be like:
 
-![Barock be like](img/barock_02.png)
+![Barock be like](img/barock_01.png)
 
 # 7. Aufklärung, Sturm und Drang
 
