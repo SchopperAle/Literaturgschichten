@@ -8,6 +8,10 @@
 > - Aufklärung,
 > - ILSE EICHINGER !,
 > - Realismus alle Authoren
+> - Emilia Galotti is a bürgerliches Trauerspiel
+> - Berthold Brecht: Wichtig Nachkriegsautoren Deutschland
+> - Gruppe 47: Ilse Aichinger, Heinrich Böll
+> - Lebensdaten von nur Göthe muss man Wissen
 
 ---
 ## 1.2. Inhalt
@@ -470,6 +474,7 @@ Wichtiges Werk:
 #### 15.1.5.2. Gruppe 47
 Wichtige Authoren:
 - Ilse Aichinger
+- Heinrich Böll
 <!-- Muas I nu noch schaun -->
 
 ### 15.1.6. Franz Xaver Kroetz
