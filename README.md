@@ -272,6 +272,7 @@ Wichtige Werke (Dramen):
 
 Balladen Goethes:
 - Der Zauberlehrling
+- Die Braut von Korinth
 
 ## 8.2. Schiller
 
@@ -284,7 +285,6 @@ Wichtige Werke:
 Balladen Schillers:
 - Der Taucher
 - Der Handschuh
-- Die Braut von Korinth
 
 # 9. Die Romantik
 > Vorbild: deutsches Mittelalter (Prinzessinen Schlösser etc.)
