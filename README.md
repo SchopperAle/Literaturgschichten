@@ -7,7 +7,7 @@
 > - Barockzeit: Allgemein & Buchtitel,
 > - Aufklärung,
 > - ILSE EICHINGER !,
-> - Realismus alle Authoren
+> - Realismus alle Autoren
 > - Emilia Galotti is a bürgerliches Trauerspiel
 > - Berthold Brecht: Wichtig Nachkriegsautoren Deutschland
 > - Gruppe 47: Ilse Aichinger, Heinrich Böll
@@ -204,7 +204,7 @@ Hauptsächlich Stil von Baukunst, Bildhauerei und Malerei der **Italiener**🍕�
 
 Oft findet man die **Mahnung, an den Tod** zu denken.
 
-Authoren:
+Autoren:
 - **Hans Jakob** Christoffel von **Grimmelshausen**
 - Martin Opitz
 - Andreas Gryphius
@@ -289,7 +289,7 @@ Balladen Schillers:
 # 9. Die Romantik
 > Vorbild: deutsches Mittelalter (Prinzessinen Schlösser etc.)
 
-Authoren:
+Autoren:
 - Josef von Eichendorff
 - Ernst Theodor Amadeus Hoffmann
 - Brüder Jacob und Wilhelm Grimm
@@ -425,7 +425,7 @@ Werke:
 Speziale Literaturform:
 > Exilliteratur
 
-Wichtige Authoren der Exilliteratur:
+Wichtige Autoren der Exilliteratur:
 - [Berthold Brecht](#bertolt-brecht)
 - Thomas Mann
 - Kurt Tucholsky
@@ -435,7 +435,7 @@ Wichtige Authoren der Exilliteratur:
 > nach 1945
 
 Wichtig: Entwicklung der **Länder** nach dem Krieg. 
-Alle Länder haben verschieden Geschichten, daher auch **Themen und Probleme**, worauf sich die Authoren beziehen
+Alle Länder haben verschieden Geschichten, daher auch **Themen und Probleme**, worauf sich die Autoren beziehen
 
 ## 15.1. Die Bundesrepublik Deutschland (BRD)
 > Stunde Null: Ein ganz neuer Anfang musste gefunden werden
@@ -472,7 +472,7 @@ Wichtiges Werk:
 ![Oppenheimer](img/dokumentartherater_01.jpg)
 
 #### 15.1.5.2. Gruppe 47
-Wichtige Authoren:
+Wichtige Autoren:
 - Ilse Aichinger
 - Heinrich Böll
 <!-- Muas I nu noch schaun -->
@@ -491,7 +491,7 @@ Flucht aus der DDR in die BRD:
 - Ulrich Plenzdorf
   - Hat "**Die neuen Leides des jungen W.**" geschrieben.
 
-Wichtige Authoren:
+Wichtige Autoren:
 - Christa Wolf
 - Anna Seghers
 
@@ -510,7 +510,7 @@ Wichtiges Werk:
 
 ## 15.4. Österreich
 
-**Wiener Gruppe, Forum Stadtpark** war lose Verbindung zwischen Authoren:
+**Wiener Gruppe, Forum Stadtpark** war lose Verbindung zwischen Autoren:
 - Gerhard Rühm
 - Friedrich Achleitenr
 - H.C. Artmann
@@ -519,7 +519,7 @@ Wichtiges Werk:
 
 Lautgedichte entstanden: "**Konkrete Poesie**"
 
-Wichtige Authoren:
+Wichtige Autoren:
 - Ingeborg Bachmann
 - Felix Mitterer
 - Peter Turrini
